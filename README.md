@@ -22,3 +22,4 @@ Libraries: pandas, scikit-learn, seaborn, matplotlib, keras, joblib
 Acknowledgments
 The code makes use of scikit-learn, Keras, and other open-source libraries. Make sure to cite and acknowledge their contributions.
 
+The video to the code: https://drive.google.com/file/d/13qoWHMFscg4Pd7GPeLAsHuIp-sDAq5dE/view?usp=drive_link
